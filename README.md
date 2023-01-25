@@ -1,6 +1,8 @@
 # BotChatGPT
 
-Replace the longtext.txt with your own code and wait for the review.
+Replace the `longtext.txt` with your own code, make a copy of `.env.example` and fill with your credentials, save it as `.env`.
+
+The initial version just send your code to a conversation on ChatGPT chunk by chunk then ask for a detailed review.
 
 ## Install:
 
